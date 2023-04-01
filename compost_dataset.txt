@@ -1,0 +1,438 @@
+100% cotton balls : yes
+100% cotton swabs : no
+acorn : yes
+acorns : yes
+alcohol : maybe
+alcoholic drinks : maybe
+alfalfa sprouts : yes
+almond shell : yes
+animal bedding : maybe
+animal hair : yes
+apple : yes
+apple cores : yes
+apple skin : yes
+apricot pit : maybe
+artichoke : yes
+arugula : yes
+ash : maybe
+ash from natural lump charcoal : maybe
+ash from wood : maybe
+asparagus : yes
+aubergine : yes
+avocado : yes
+avocado pits : yes
+avocado skin : yes
+azuki beans : yes
+bacon : no
+bacon greese : no
+bag : no
+baking soda : no
+balloon : no
+banana : yes
+banana leaves : yes
+banana peel : yes
+banana peels : yes
+barbecue sauce : no
+basil : yes
+bean sprouts : yes
+beef : no
+beer : maybe
+beet root : yes
+beets : yes
+beets : maybe
+biodegradable decorations : no
+biodegradable plastic bags : no
+black beans : yes
+black walnut tree leaves : no
+black walnut tree twigs : no
+black-eyed peas : yes
+blood : maybe
+body wash : no
+bones : maybe
+branches : yes
+bread : yes
+bread crumbs : yes
+breads : yes
+broad beans : maybe
+broccoli : yes
+burlap : yes
+butter : no
+cabbage : yes
+cactus : no
+cadaver : no
+cake : maybe
+candy : maybe
+candy wrapper : no
+canned fruits : maybe
+canned vegetables : yes
+cantaloupe : yes
+cardboard : yes
+cardboard box : yes
+cardboard egg carton : yes
+cardboard toilet paper tubes : yes
+cardboard tubes : yes
+carrot : yes
+carrot peel : yes
+cat feces : no
+cat food : maybe
+cat manure : no
+cauliflower : yes
+cauliflower scraps : yes
+cedar chips : yes
+celery : yes
+ceramic : no
+charcoal ash : no
+cheese : no
+cherry : yes
+cherry pits : yes
+chewing gum : no
+chicken : no
+chicken bones : maybe
+chicken manure : maybe
+chicken wings : maybe
+chickpeas : yes
+chips : maybe
+chocolate : maybe
+chopsticks : maybe
+cigarette-butt : no
+cilantro : yes
+citrus peels : maybe
+clam shells : maybe
+clothes : maybe
+coal : no
+coconut : yes
+coconut husk : yes
+coconut shell : yes
+coffee : yes
+coffee cup : no
+coffee filters : yes
+coffee grounds : yes
+coke : yes
+compostable packaging : no
+compostable plastic bags : no
+condiments : no
+conditioner : no
+cooked beans : yes
+cooked oats : yes
+cooked pasta : maybe
+cooked rice : yes
+cooked vegetables : yes
+cookies : maybe
+cooking oil : no
+corn cobs : yes
+corn husk : yes
+cosmetics : no
+cotton fiber : yes
+cottong string : yes
+courgette : yes
+crab shells : yes
+crackers : no
+croutons : yes
+cucumber : yes
+cupcakes : no
+dairy products : no
+dead bird : no
+dehydrated fruits : yes
+dehydrated vegetables : yes
+dips : maybe
+diseased plants : no
+dog feces : no
+dog food : maybe
+dog fur : no
+dog manure : no
+donuts : no
+dove carcass : no
+drink mixes : no
+dry beans : yes
+dry cereal : yes
+dryer lint : maybe
+dryer lint : yes
+duckweed : yes
+egg : no
+egg shells : yes
+eggplant : yes
+eggshells : yes
+envelope : maybe
+fabric : maybe
+falafel : no
+fallen leaves : yes
+fallen seeds (from trees) : yes
+fats : maybe
+fingernail clippings : no
+fireplace ashes : no
+fish : no
+fish bones : maybe
+fish scraps : maybe
+fish skin : maybe
+flax : yes
+flour : no
+flowers : maybe
+food waste : maybe
+frozen fruits : yes
+frozen vegetables : yes
+fruit scraps : yes
+fruit sticker : no
+fruit stones : maybe
+fruits : yes
+fur : no
+garland : yes
+garlic : maybe
+garlic skin : yes
+gasoline : no
+ginger : yes
+glass clippings : no
+glue : no
+goat manure : maybe
+granola bars : yes
+grape : yes
+grape branches : yes
+grass clippings : yes
+grease : no
+green beans : yes
+guava : yes
+gumball : no
+habanero : maybe
+hair : yes
+hay : yes
+hemp : maybe
+herb stems : yes
+honey : yes
+hops : no
+horse manure : yes
+hot dog : no
+hot sauce : no
+houseplants : yes
+houseplants : yes
+human feces : no
+human manure : no
+hygiene products : no
+iceberg lettuce : yes
+icecream : maybe
+insect-ridden plants : no
+ivy : no
+jalapeno : maybe
+jams : yes
+japanese knotweed : no
+jeans : maybe
+jellies : yes
+juice : yes
+ketchup : no
+kibble : yes
+kidney beans : yes
+kiwi : maybe
+kombucha : yes
+lard : no
+leather : maybe
+leaves : yes
+legumes : yes
+lemon : maybe
+lemon peel : no
+lentils : yes
+lettuce : yes
+lima beans : yes
+lime : no
+lime : maybe
+line : no
+linen : maybe
+lotion : no
+lubricants : no
+lumber : no
+macaroni : yes
+magazines : no
+mange tout : yes
+mango : yes
+manure from a meat eater animal : no
+marrow : yes
+mayonnaise : no
+meat : no
+medical alcohol : yes
+melon rind : yes
+melons : yes
+metal : no
+metal : no
+milk : no
+moldy cheese : maybe
+motor oil : no
+muesli : yes
+muffins : yes
+mung beans : yes
+mushroom : yes
+mustard : no
+napkin : maybe
+napkins : yes
+natural lumb carchoal ash : no
+navy beans : yes
+noodles : yes
+nut butter : yes
+nut shell : yes
+nut shell : yes
+nuts : yes
+oils : no
+old potting soil : yes
+old wires : no
+olive stone : maybe
+olives : yes
+onion : maybe
+onion skin : maybe
+orange : yes
+orange : yes
+orange peels : maybe
+oyster shells : maybe
+packing paper : maybe
+paper : yes
+paper bag : maybe
+paper egg cartons : yes
+paper grocery bags : yes
+paper plates : yes
+paper straw : yes
+paper tea bags : maybe
+paper towel : maybe
+paper towels : maybe
+parchment paper : maybe
+pastries : yes
+peach : maybe
+peach pits : yes
+peanut butter : maybe
+peanut shells : yes
+peanuts : yes
+pear : yes
+peas : yes
+pencil : no
+pepper : yes
+pepper plant : maybe
+pet faeces : no
+pet food : maybe
+pet hair : no
+pet wastes : no
+petroleum based plastic : no
+pickled food : no
+pine cones : yes
+pine needles : yes
+pineapple : yes
+pineapple skin : yes
+pinto beans : yes
+pistachio shells : yes
+pizza (not pizza boxes) : maybe
+pizza box : maybe
+PLA compostable plastics : maybe
+planks : maybe
+plantains : yes
+plastic packaging : no
+plastic-free cling film : maybe
+plum : maybe
+polystyrene : no
+poop : no
+popcorn : yes
+popsicle sticks : maybe
+pork : no
+porridge : yes
+potato : yes
+potato peels : yes
+potatoes : yes
+poultry : no
+powder milk : maybe
+produce rubber bands : no
+produce sticker : no
+protein powder : yes
+prunings (from the garden) : yes
+pumpkin : yes
+qtips : maybe
+rabbit manure : yes
+radish : yes
+real christmas tree : yes
+red lentil : yes
+relish : no
+rhododendron leaves : yes
+rice paper : yes
+runner beans : yes
+salad dressings : no
+salad leaves : yes
+sauces : no
+sausages : no
+sawdust : yes
+seaweed : yes
+seeds : yes
+shampoo : no
+shedded skin of snake : no
+sheeded skin of reptile : yes
+shit : no
+shredded cardboard : yes
+shredded newspaper : yes
+shredded paper : maybe
+shrimp shells : maybe
+skewers : maybe
+smoothie : no
+snack bars : maybe
+soda : no
+soiled cat litter : no
+sour cream : no
+sourdough : yes
+sourdough starter : yes
+soy beans : yes
+spent grain : yes
+spinach : yes
+split peas : yes
+spoiled milk : no
+squash : yes
+sriracha sauce : no
+stale herbs : yes
+stale spices : no
+steak : no
+steak sauce : no
+straw : yes
+strawberry : yes
+sugar : yes
+summer squash : yes
+sunchoke : no
+sunflower seeds : maybe
+sweet potato : yes
+tape : no
+tea leaves : yes
+teabag : maybe
+tempeh : yes
+tissues : yes
+toast : yes
+toenail clippings : maybe
+tofu : yes
+tomato : maybe
+toothpicks : maybe
+tortillas : yes
+tuna : no
+twine : yes
+uncooked oats : yes
+uncooked pasta : yes
+uncooked rice : yes
+unpopped popcorn kernels : yes
+urine : no
+used matches : no
+vacuum cleaner dust : no
+vegetable sticker : no
+vegetables : yes
+vegetables that have gone bad : yes
+vermiculite : maybe
+vinaigrette : no
+walnut : no
+walnut leaves : yes
+watermelon : yes
+watermelon rind : yes
+wax paper : no
+weed stems : yes
+weeds : no
+whole eggs : maybe
+wicker basket : maybe
+wigs : no
+wild mushrooms : yes
+wine cork : maybe
+wood ash : maybe
+wood chips : yes
+wooden toothpicks : yes
+wool : yes
+worms : yes
+wreath : yes
+yam : yes
+yard trimming : maybe
+yard trimming treated with cemical pesticides : no
+yarn : yes
+yeast : yes
+yogurt : no
+zucchini : yes

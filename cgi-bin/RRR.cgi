@@ -27,23 +27,9 @@ print("""
     <link rel="stylesheet" href="../RRR.css" type="text/css" />
 </head>
 <body>
+""")
 
-New World, yo! v2
-
-<!--
-<form action="/file-upload"
-      class="dropzone"
-      id="rrr-dropzone"></form>
--->
-
-<DIV id="dropzone">
-    <FORM class="dropzone needsclick" id="rrr-upload" action="/file-upload">
-        <DIV class="dz-message needsclick">
-            Drop files here or click to upload.
-        </DIV>
-    </FORM>
-</DIV>
-
+print("""
 Fries
 
 </body>

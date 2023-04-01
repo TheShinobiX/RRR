@@ -24,7 +24,7 @@ avocado pits : yes
 avocado skin : yes
 azuki beans : yes
 bacon : no
-bacon greese : no
+bacon grease : no
 bag : no
 baking soda : no
 balloon : no
@@ -123,7 +123,7 @@ corn cobs : yes
 corn husk : yes
 cosmetics : no
 cotton fiber : yes
-cottong string : yes
+cotton string : yes
 courgette : yes
 crab shells : yes
 crackers : no
@@ -260,7 +260,7 @@ mushroom : yes
 mustard : no
 napkin : maybe
 napkins : yes
-natural lumb carchoal ash : no
+natural lumb charcoal ash : no
 navy beans : yes
 noodles : yes
 nut butter : yes
@@ -300,7 +300,7 @@ peas : yes
 pencil : no
 pepper : yes
 pepper plant : maybe
-pet faeces : no
+pet feces : no
 pet food : maybe
 pet hair : no
 pet wastes : no
@@ -431,7 +431,7 @@ worms : yes
 wreath : yes
 yam : yes
 yard trimming : maybe
-yard trimming treated with cemical pesticides : no
+yard trimming treated with chemical pesticides : no
 yarn : yes
 yeast : yes
 yogurt : no

@@ -15,6 +15,15 @@ import re
 # =======================================================
 # ======================== Start ========================
 # =======================================================
+# Tell the browser it's an HTML page.
+print('Content-Type: text/HTML')
+# Blank line to indicate end of headers.
+print('')
+
+# Take form inputs
+form = cgi.FieldStorage()
+deck_1 = form.getfirst("file", '')
+
 print("""
 <!DOCTYPE html>
 <html lang="en">

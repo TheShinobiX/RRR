@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import cgi
 import re
+import os
+import cgitb
+cgitb.enable()
 
 # =======================================================
 # ======================= Classes =======================
@@ -20,9 +23,20 @@ print('Content-Type: text/HTML')
 # Blank line to indicate end of headers.
 print('')
 
-# Take form inputs
+# Take form data
 form = cgi.FieldStorage()
-deck_1 = form.getfirst("file", '')
+
+# A nested FieldStorage instance holds the file
+fileitem = form["file"]
+fn = None
+content = ""
+if fileitem.file:
+    # yay...we got a file
+    fn = os.path.basename(fileitem.filename)
+    # Save the file
+    content = fileitem.file.read()
+    with open("../RRR_dir/{}".format(fn), "wb") as f:
+        f.write(content)
 
 print("""
 <!DOCTYPE html>
@@ -37,6 +51,9 @@ print("""
 </head>
 <body>
 """)
+
+if fn:
+    print("""<img src="../RRR_dir/{}" alt="User input image">""".format(fn))
 
 print("""
 Fries

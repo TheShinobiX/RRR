@@ -5,13 +5,27 @@
     <title>Tandoori</title>
     <script src="https://unpkg.com/dropzone@5/dist/min/dropzone.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/dropzone@5/dist/min/dropzone.min.css" type="text/css" />
+    <script src="RRR.js"></script>
+    <link rel="stylesheet" href="RRR.css" type="text/css" />
 </head>
 <body>
 
 Hello World
+
+<!--
 <form action="/file-upload"
       class="dropzone"
-      id="my-awesome-dropzone"></form>
+      id="rrr-dropzone"></form>
+-->
+
+<DIV id="dropzone">
+    <FORM class="dropzone needsclick" id="rrr-upload" action="/file-upload">
+        <DIV class="dz-message needsclick">
+            Drop files here or click to upload.
+        </DIV>
+    </FORM>
+</DIV>
+
 Nuggets
 
 </body>
